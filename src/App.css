@@ -1,0 +1,8 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #121212; /* Dark background for the entire app */
+  color: #e0e0e0; /* Light text color for readability */
+  min-height: 100vh;
+  padding: 40px;
+}
